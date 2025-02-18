@@ -1,0 +1,3 @@
+cloudscraper
+pyfiglet
+requests
